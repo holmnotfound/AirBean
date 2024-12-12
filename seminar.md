@@ -24,5 +24,7 @@ skriv ut antalKast
    
 6. Vi får aldrig tillbaka samma kod som vi först skickade in. Vi fick som förväntat .promise(). Vi antar att ChatGPT är tränad på gammal kod och ger oss det som enligt den är "första, bästa" lösning som har fungerat innan. Nyare kod som inte så många använt kanske inte är det första den ger som svar.
 
-7. 
+7. Vid andra svaret är det mer detaljerad. Det riktar sig mer mot frontend med kodexempel i JavaScript. Först var det i Python. Den berättar mer och är mer pedagogisk i det andra svaret när man har anpassat ChatGPT.
+
+8. 
    
