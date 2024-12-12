@@ -5,17 +5,23 @@
    
 2.  Svaret från Aizo är mer konkret och lättare att förstå än svaret från ChatGPT. ChatGPTs pseudokod är lite längre och har med lite onödiga saker som att skriva ut olika meningar "Du fick.." och liknande.
 
-Pseudokod från Aizo:
-sätt antalKast till 0
-sätt mål till 1
+**Pseudokod från Aizo:**
 
-medan mål är mindre än eller lika med 6
-    kasta tärningen
-    öka antalKast med 1
-    om resultatet är lika med mål
-        öka mål med 1
+`Sätt antalKast till 0`
 
-skriv ut antalKast
+`Sätt mål till 1`
+
+`medan mål är mindre än eller lika med 6`
+
+`kasta tärningen`
+    
+`öka antalKast med 1`
+    
+`om resultatet är lika med mål`
+    
+`öka mål med 1`
+
+`skriv ut antalKast`
 
 3. Det fungerar med JavaScript-koden från både ChatGPT och från Aizo. Koden från Aizo var kortare och lättare att förstå. Medan koden från ChatGPT var lite mer krånglig men fungerande.
 
@@ -51,9 +57,9 @@ skriv ut antalKast
 
 ## AI Generellt
 16. Andra AI-tjänster:
-    1. Amazon codewisperer: Det är en kodgenerator som ger kod i realtid. Det är baserat på dina kommentare och befintlig kod. Är också optimerad för aför använding för AWS-tjänster.
-    2. Tabnin: Den förbättrar effektiviteten och kvaliteten på mjukvaruutveckling. Den erbjuder intelligenta kodförslag över ett brett utbud av programmeringsspråk. Tabnine använder generativ AI-teknik för att förutsäga och föreslå nästa rader kod baserat på sammanhang. Den är flexibel då Tabnine kan anpassas och tränas på din kodbas för att bli mer specifik för ditt projekt, vilket gör den särskilt kraftfull för team.
-    3. aiXcoder: aiXcoder är ett verktyg som stöder ett brett utbud av programmeringsspråk, inklusive Python, JavaScript och Java. Den erbjuder också kodgenerering på metodnivå från naturligt språk till kod. aiXcoder lär sig av dina kodningsmönster och anpassar sig efter dina unik stil.
+* **Amazon codewisperer:** Det är en kodgenerator som ger kod i realtid. Det är baserat på dina kommentare och befintlig kod. Är också optimerad för aför använding för AWS-tjänster.
+* **Tabnin:** Den förbättrar effektiviteten och kvaliteten på mjukvaruutveckling. Den erbjuder intelligenta kodförslag över ett brett utbud av programmeringsspråk. Tabnine använder generativ AI-teknik för att förutsäga och föreslå nästa rader kod baserat på sammanhang. Den är flexibel då Tabnine kan anpassas och tränas på din kodbas för att bli mer specifik för ditt projekt, vilket gör den särskilt kraftfull för team.
+* **aiXcoder:** aiXcoder är ett verktyg som stöder ett brett utbud av programmeringsspråk, inklusive Python, JavaScript och Java. Den erbjuder också kodgenerering på metodnivå från naturligt språk till kod. aiXcoder lär sig av dina kodningsmönster och anpassar sig efter dina unik stil.
    
 17. Vi tänker oss copilot för att det är så utvecklat verktyg som har testats mer nogrant. Det är också ett verktyg som används eller kommer att användas ute i arbetslivet, som är bra som student att lära sig redan nu. DEt är bra då den är intregrerad med VScode och inte behöver ha något på sidan av när man kodar.
    
